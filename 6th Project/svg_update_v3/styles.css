@@ -124,6 +124,12 @@ svg{
   display:none;
  }
  } 
+@media (max-width:425px) {
+  .st1{
+    display:none;
+
+  }
+}
 
 /* --------------------------------------
     Keyframes
